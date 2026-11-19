@@ -3,6 +3,10 @@
 A calculator built with HTML, CSS, and JavaScript that performs
 basic arithmetic on two numbers.
 
+## Site Preview & Project Preview 
+
+Render: https://calculator-app-8jvh.onrender.com 
+
 <img width="696" height="577" alt="Calculator" src="https://github.com/user-attachments/assets/a69a5aaf-c0df-4d7e-94f3-f0d6ce961729" />
 
 
